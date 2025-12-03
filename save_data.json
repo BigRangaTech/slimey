@@ -1,0 +1,89 @@
+{
+  "best_score": 21,
+  "total_coins": 7,
+  "settings": {
+    "resolution": "1920x1080",
+    "fullscreen": false,
+    "fx_mode": "scanlines",
+    "particles_enabled": true,
+    "particle_density": "medium",
+    "game_speed_mult": 1.0,
+    "enemy_spawn_mult": 1.0,
+    "enemy_damage_mult": 1.0,
+    "gravity_mult": 1.0,
+    "jump_mult": 1.0,
+    "move_speed_mult": 2.0,
+    "music_volume": 0.2,
+    "difficulty": "Normal"
+  },
+  "upgrades": {
+    "double_jump": false,
+    "coin_magnet": false,
+    "extra_heart": false
+  },
+  "skins": {
+    "current_skin": "default",
+    "unlocked": [
+      "default"
+    ]
+  },
+  "high_scores": [
+    {
+      "score": 21,
+      "coins": 7,
+      "level": 1
+    }
+  ],
+  "scores_by_level": {
+    "1": [
+      {
+        "score": 21,
+        "coins": 7,
+        "level": 1
+      }
+    ]
+  },
+  "input": {
+    "keyboard": {
+      "move_left": [
+        "K_a",
+        "K_LEFT"
+      ],
+      "move_right": [
+        "K_d",
+        "K_RIGHT"
+      ],
+      "jump": [
+        "K_SPACE",
+        "K_w",
+        "K_UP"
+      ],
+      "dash": [
+        "K_LSHIFT",
+        "K_RSHIFT"
+      ],
+      "pause": [
+        "K_ESCAPE"
+      ]
+    },
+    "controller": {
+      "move_left": [
+        "HAT_LEFT"
+      ],
+      "move_right": [
+        "HAT_RIGHT"
+      ],
+      "jump": [
+        "BTN_A"
+      ],
+      "dash": [
+        "BTN_X",
+        "BTN_Y"
+      ],
+      "pause": [
+        "BTN_START"
+      ]
+    }
+  },
+  "achievements": {}
+}
